@@ -1,2 +1,2 @@
 # Titanic
-Predicting survival on TItanic Passengers
+Predicting survival of passengers from Titanic disasters
